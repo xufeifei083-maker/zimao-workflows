@@ -1,0 +1,5 @@
+# Signed catalog resources must reach GitHub byte-for-byte unchanged.
+catalog/** -text
+
+*.md text eol=lf
+*.txt text eol=lf
