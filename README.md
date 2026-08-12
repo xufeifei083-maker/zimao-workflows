@@ -13,10 +13,10 @@
 ## 软件读取地址
 
 ```text
-https://raw.githubusercontent.com/xufeifei083-maker/zimao-workflows/main/catalog/catalog.json?v=260803-1
+https://raw.githubusercontent.com/xufeifei083-maker/zimao-workflows/catalog-260803-1/catalog/catalog.json
 ```
 
-签名文件位于同地址的 `catalog.json.sig`，公钥见 [`public-key.txt`](public-key.txt)。软件必须先验证 Ed25519 签名，再接受目录内容；每个模型还会验证完整 commit、文件大小和 SHA256。
+签名文件位于同地址的 `catalog.json.sig`，公钥见 [`public-key.txt`](public-key.txt)。`catalog-260803-1` 是不可变版本标签，目录、签名和工作流文件始终来自同一个 Git commit。软件必须先验证 Ed25519 签名，再接受目录内容；每个模型还会验证完整 commit、文件大小和 SHA256。
 
 ## 目录结构
 
