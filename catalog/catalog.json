@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T13:10:20.064524+00:00",
+  "generatedAt": "2026-08-12T13:12:49.996779+00:00",
   "schemaVersion": 1,
   "workflows": [
     {
@@ -106,17 +106,17 @@
         "image-to-video.api.json": {
           "sha256": "4f9a3994d97ca18a58552d13b2139dfe4b156b3342a07db70234da1137225cde",
           "size": 6319,
-          "url": "https://raw.githubusercontent.com/xufeifei083-maker/zimao-workflows/main/catalog/workflows/minimax-h3/260803/image-to-video.api.json"
+          "url": "https://raw.githubusercontent.com/xufeifei083-maker/zimao-workflows/main/catalog/workflows/minimax-h3/260803/image-to-video.api.json?sha256=4f9a3994d97ca18a58552d13b2139dfe4b156b3342a07db70234da1137225cde"
         },
         "reference-to-video.api.json": {
           "sha256": "7ac9c916d24bd960d0247adabf3a916653c9c604defcfbf739dce9c31d7f282b",
           "size": 15091,
-          "url": "https://raw.githubusercontent.com/xufeifei083-maker/zimao-workflows/main/catalog/workflows/minimax-h3/260803/reference-to-video.api.json"
+          "url": "https://raw.githubusercontent.com/xufeifei083-maker/zimao-workflows/main/catalog/workflows/minimax-h3/260803/reference-to-video.api.json?sha256=7ac9c916d24bd960d0247adabf3a916653c9c604defcfbf739dce9c31d7f282b"
         },
         "text-to-video.api.json": {
           "sha256": "91f9caf9adb626e075fc297f209f278feb2fd69b4528ab40d5ab01f0566b13ba",
           "size": 6277,
-          "url": "https://raw.githubusercontent.com/xufeifei083-maker/zimao-workflows/main/catalog/workflows/minimax-h3/260803/text-to-video.api.json"
+          "url": "https://raw.githubusercontent.com/xufeifei083-maker/zimao-workflows/main/catalog/workflows/minimax-h3/260803/text-to-video.api.json?sha256=91f9caf9adb626e075fc297f209f278feb2fd69b4528ab40d5ab01f0566b13ba"
         }
       }
     }
